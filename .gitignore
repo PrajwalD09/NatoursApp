@@ -12,7 +12,7 @@ node_modules
 *.jpg
 
 routes
-utils
+# utils
 # views
 
 # public\img
