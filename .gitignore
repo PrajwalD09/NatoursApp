@@ -8,12 +8,12 @@ node_modules
 *.img
 *.png
 *.svg
-*.json
+# *.json
 # *.jpg
 
 # routes
 # utils
-views
+# views
 
 # public\img
 
