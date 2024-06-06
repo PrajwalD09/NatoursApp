@@ -9,7 +9,7 @@ node_modules
 *.png
 *.svg
 *.json
-*.jpg
+# *.jpg
 
 # routes
 # utils
@@ -17,5 +17,6 @@ node_modules
 
 # public\img
 
+public/img/users
 public/img
 # public
